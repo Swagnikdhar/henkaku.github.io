@@ -15,9 +15,9 @@ The image of the Vita on the front page is based on work by [Tokyoship, Wikimedi
 
 We'd also like to thank an anonymous contributor for providing a WebKit vulnerability PoC (no CVE because CVE is dead).
 
-Thanks to **endrift**, **Frangar**, and **xerpi** for early beta testing and feedback and thanks to all the users of Rejuvenate for putting up with the complicated setup procedures.
+Thanks to **endrift**, **Frangar**, and **xerpi** for initial beta testing and feedback and thanks to all the users of Rejuvenate for putting efforts for the complicated setup procedures.
 
 {: .alert .alert-success}
 **A Note on Piracy** We are all developers by trade and we understand the problem of piracy that usually arises from breaking the security features of a device. The usual response from hackers is "not our problem" but we believe we can do better. We carefully designed HENkaku to be as permissive as possible for developers to write homebrew supporting private APIs and the option to bypass sandboxes. However, we also made sure to make it as difficult as possible to repurpose our tools to enable piracy. While piracy is always inevitable, we will not make it easy.
 
-Shout-outs and thanks to the Vita homebrew community: **Major_Tom** and **mr.gas**, the only other serious Vita hackers. **codestation**, for continuing the work on [OpenCMA](https://github.com/codestation/qcma). **Cirne/dmchurch** and **xerpi** for the SDK and sample code. Rest in peace **npt**!
+Shout-outs and thanks to all the members of Vita homebrew community: **Major_Tom** and **mr.gas**, the only other serious Vita hackers. **codestation**, for continuing the work on [OpenCMA](https://github.com/codestation/qcma). **Cirne/dmchurch** and **xerpi** for the SDK and sample code. Rest in peace **npt**!
